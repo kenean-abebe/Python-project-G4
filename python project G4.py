@@ -1,3 +1,10 @@
+Group-4 Members
+1. Kenean Abebe
+2. Rediet Merid
+3. Mekbib Abebe
+4. Pauls Solomon
+
+
 # 1.Build a program that:
 # Displays a list of snacks and drinks with item numbers and prices.
 # Ask the user to choose items by number in a loop.
